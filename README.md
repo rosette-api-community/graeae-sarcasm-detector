@@ -1,5 +1,5 @@
-# hackathon-graeae
-2016 Rosette API Hackathon - Team Graeae
+# rosette-sarcasm-detector
+A tool that analyzes and detects sarcastic tweets.
 
 ##Prerequisites 
 
